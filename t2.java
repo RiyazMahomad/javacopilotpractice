@@ -6,5 +6,7 @@ public class SortingExample {
 
         // Task: Use Copilot to complete the code to sort the array in ascending order
         // TODO: Complete the code here
+        Arrays.sort(numbers);
+        System.out.println("sorted array elements are : "+Arrays.toString(numbers));
     }
 }
